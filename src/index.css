@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "carmitta";
+  src: url("/src/font/Carmitta.ttf");
+}
+
+@font-face {
+  font-family: "sarlotte";
+  src: url("/src/font/Sarlotte.otf");
+}
+
+@font-face {
+  font-family: "myflora";
+  src: url("/src/font/Myflora.otf");
+}
